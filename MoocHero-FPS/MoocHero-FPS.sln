@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoocHero-FPS", "Assembly-CSharp.csproj", "{1B8F152B-7186-4183-DAF0-B5D126E27BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoocHero-FPS", "Assembly-CSharp-firstpass.csproj", "{760713DE-E534-A494-021A-4D9000B976B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoocHero-FPS", "Assembly-CSharp-Editor.csproj", "{6A68ACA1-83BA-CDD0-E659-A67137C77B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8F152B-7186-4183-DAF0-B5D126E27BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8F152B-7186-4183-DAF0-B5D126E27BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8F152B-7186-4183-DAF0-B5D126E27BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8F152B-7186-4183-DAF0-B5D126E27BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760713DE-E534-A494-021A-4D9000B976B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760713DE-E534-A494-021A-4D9000B976B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760713DE-E534-A494-021A-4D9000B976B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760713DE-E534-A494-021A-4D9000B976B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A68ACA1-83BA-CDD0-E659-A67137C77B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A68ACA1-83BA-CDD0-E659-A67137C77B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A68ACA1-83BA-CDD0-E659-A67137C77B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A68ACA1-83BA-CDD0-E659-A67137C77B73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
